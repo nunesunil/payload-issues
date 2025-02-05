@@ -5,7 +5,7 @@
 - **Auto Save Bug**: There is an issue where enabling Auto Save in collections (pages in this case) causes the page to flicker and reload during the start of the create operation. This issue affects the multi-tenant setup and is also observed in the Payload CMS website template.
 
 
-- **Demonstration Video (Issue 1)**: [https://github.com/nunesunil/payload-issues/tree/main/public/Bug1.mov](#) .
+- **Demonstration Video (Issue 1)**: [![Watch the video](https://github.com/nunesunil/payload-issues/tree/main/public/Bug1.mov)](https://github.com/nunesunil/payload-issues/tree/main/public/Bug1.mov) .
 
 ## Issue 2
 
